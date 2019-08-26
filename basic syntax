@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>PHP Syntax</title>
+</head>
+<body>
+<?php
+//this is a single line comment
+echo"<h1>I am a Batman!</h1>";
+?>
+</body>
+</html>
+
