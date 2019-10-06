@@ -6,8 +6,9 @@
 <body>
 <?php
 //this is a single line comment
-echo"<h1>I am a Batman!</h1>";
-?>
+echo"<h1>I am a Batman!</h1>"
+</br>
+<h2>i want to be a good singer and working is on progress</h2>
 </body>
 </html>
 

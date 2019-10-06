@@ -1,3 +1,1 @@
-<?php
-echo "I want to be a web developer and ghanta.";
-?>
+i want to be a good web devloper and qworkin g process is in progress!!!!
