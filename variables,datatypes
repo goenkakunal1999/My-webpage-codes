@@ -6,7 +6,7 @@
     <body>
         <?php
         $var1 = 18;
-        $var2 = 12;
+        $var2 = 14;
         $sum = $var1 + $var2;
         Echo $sum;
         ?>
