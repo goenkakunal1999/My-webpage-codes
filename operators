@@ -5,7 +5,7 @@
     </head>
     <body>
         <?php
-        $var1 = 18;
+        $var1 = 78;
         $var2 = 12;
         echo gettype($var1);
         ?>
